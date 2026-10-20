@@ -1,0 +1,23 @@
+{
+  "name": "mlp_3x512_256_128",
+  "vocab_size": 20000,
+  "hidden_units": [
+    512,
+    256,
+    128
+  ],
+  "dropout_rates": [
+    0.4,
+    0.3,
+    0.2
+  ],
+  "learning_rate": 0.001,
+  "batch_size": 128,
+  "max_epochs": 25,
+  "patience": 5,
+  "min_delta": 0.0001,
+  "l2": 0.0,
+  "balanced_class_weight": false,
+  "validation_size": 0.1,
+  "seed": 42
+}

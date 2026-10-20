@@ -1,0 +1,26 @@
+                          precision    recall  f1-score   support
+
+             alt.atheism     0.4311    0.5298    0.4754       319
+           comp.graphics     0.7226    0.6093    0.6611       389
+ comp.os.ms-windows.misc     0.5031    0.6244    0.5572       394
+comp.sys.ibm.pc.hardware     0.5723    0.7066    0.6324       392
+   comp.sys.mac.hardware     0.7574    0.6649    0.7082       385
+          comp.windows.x     0.7709    0.7241    0.7467       395
+            misc.forsale     0.7163    0.7897    0.7512       390
+               rec.autos     0.8030    0.6692    0.7300       396
+         rec.motorcycles     0.4920    0.7688    0.6000       398
+      rec.sport.baseball     0.8324    0.7884    0.8098       397
+        rec.sport.hockey     0.8547    0.8697    0.8621       399
+               sci.crypt     0.7940    0.7298    0.7605       396
+         sci.electronics     0.6732    0.5242    0.5894       393
+                 sci.med     0.8229    0.7273    0.7721       396
+               sci.space     0.7500    0.7157    0.7325       394
+  soc.religion.christian     0.7030    0.7136    0.7082       398
+      talk.politics.guns     0.5568    0.6868    0.6150       364
+   talk.politics.mideast     0.8435    0.7021    0.7663       376
+      talk.politics.misc     0.5546    0.4258    0.4818       310
+      talk.religion.misc     0.4337    0.2869    0.3453       251
+
+                accuracy                         0.6741      7532
+               macro avg     0.6794    0.6629    0.6653      7532
+            weighted avg     0.6881    0.6741    0.6754      7532

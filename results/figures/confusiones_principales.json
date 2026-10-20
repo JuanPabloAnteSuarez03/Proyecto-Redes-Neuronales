@@ -1,0 +1,50 @@
+[
+  {
+    "real": "talk.politics.misc",
+    "predicha": "talk.politics.guns",
+    "casos": 91,
+    "proporcion_clase_real": 0.29354838709677417
+  },
+  {
+    "real": "comp.windows.x",
+    "predicha": "comp.os.ms-windows.misc",
+    "casos": 58,
+    "proporcion_clase_real": 0.1468354430379747
+  },
+  {
+    "real": "talk.religion.misc",
+    "predicha": "soc.religion.christian",
+    "casos": 56,
+    "proporcion_clase_real": 0.22310756972111553
+  },
+  {
+    "real": "comp.sys.ibm.pc.hardware",
+    "predicha": "comp.os.ms-windows.misc",
+    "casos": 52,
+    "proporcion_clase_real": 0.1326530612244898
+  },
+  {
+    "real": "alt.atheism",
+    "predicha": "soc.religion.christian",
+    "casos": 48,
+    "proporcion_clase_real": 0.15047021943573669
+  },
+  {
+    "real": "comp.os.ms-windows.misc",
+    "predicha": "comp.sys.ibm.pc.hardware",
+    "casos": 42,
+    "proporcion_clase_real": 0.1065989847715736
+  },
+  {
+    "real": "comp.windows.x",
+    "predicha": "comp.graphics",
+    "casos": 36,
+    "proporcion_clase_real": 0.09113924050632911
+  },
+  {
+    "real": "comp.graphics",
+    "predicha": "comp.os.ms-windows.misc",
+    "casos": 33,
+    "proporcion_clase_real": 0.08483290488431877
+  }
+]
