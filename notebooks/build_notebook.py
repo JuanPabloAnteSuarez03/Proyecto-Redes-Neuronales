@@ -23,7 +23,7 @@ md(r"""
 
 **Curso:** Redes Neuronales · Universidad del Valle · 2026-2
 
-**Integrantes:** _(completar nombres)_
+**Integrantes:** Nicolás Garcés (218066) · Juan Pablo Ante (2140132)
 
 Este notebook presenta el desarrollo de la primera entrega: clasificación de
 documentos del corpus **20 Newsgroups** en 20 categorías mediante una red

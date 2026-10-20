@@ -10,13 +10,12 @@
 - Probar una vez `.venv/bin/python demo.py` (tarda unos segundos).
 - Tener el notebook ya ejecutado; no ejecutar celdas en vivo salvo la demo.
 
-## Reparto sugerido (3 integrantes)
+## Reparto sugerido (2 integrantes)
 
 | Bloque | Diapositivas | Tiempo | Quién |
 |---|---|---|---|
-| Introducción, datos y preprocesamiento | 1–4 | 2:40 | Integrante A |
-| Arquitectura y entrenamiento | 5–7 | 2:40 | Integrante B |
-| Resultados, conclusiones y demo | 8–13 | 4:10 | Integrante C |
+| Introducción, datos, arquitectura y entrenamiento | 1–7 | 5:20 | Nicolás Garcés |
+| Resultados, conclusiones y demo | 8–13 | 4:10 | Juan Pablo Ante |
 
 ## Guion por diapositiva
 
