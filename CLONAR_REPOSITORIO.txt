@@ -1,0 +1,68 @@
+ENTREGA 1 - REDES NEURONALES
+Clasificador MLP para 20 Newsgroups
+Nicolas Garces (218066) - Juan Pablo Ante (2140132)
+
+========================================================================
+IMPORTANTE: EL PROYECTO SE ENTREGA MEDIANTE GIT
+========================================================================
+
+El paquete comprimido (Entrega1_RedesNeuronales.zip) pesa 36 MB y la
+plataforma de la universidad no permite subir archivos de ese tamano.
+Por eso, TODO el proyecto (codigo, informe, presentacion, notebook,
+modelo entrenado y resultados) esta disponible en el siguiente
+repositorio publico de GitHub:
+
+    https://github.com/JuanPabloAnteSuarez03/Proyecto-Redes-Neuronales
+
+Para obtener una copia completa, ejecute en una terminal:
+
+    git clone https://github.com/JuanPabloAnteSuarez03/Proyecto-Redes-Neuronales.git
+
+Tambien puede descargarlo como ZIP desde el boton "Code" > "Download ZIP"
+en la pagina del repositorio (el ZIP que genera GitHub no tiene el limite
+de subida de la plataforma).
+
+========================================================================
+CONTENIDO DEL REPOSITORIO
+========================================================================
+
+    README.md                  Instrucciones de instalacion y ejecucion
+    requirements.txt           Dependencias de Python
+    src/                       Codigo fuente (datos, modelo, entrenamiento)
+    notebooks/                 Notebook ejecutado con el analisis completo
+    informe/informe.pdf        Informe tecnico
+    presentacion/              Diapositivas y guion de la presentacion
+    demo.py                    Demostracion de prediccion
+    results/                   Resultados, figuras y modelo final
+    Entrega1_RedesNeuronales.zip   Paquete completo de la entrega
+
+========================================================================
+RESUMEN DE RESULTADOS
+========================================================================
+
+    Dataset:        20 Newsgroups (20 clases, ~18.800 documentos)
+    Modelo final:   MLP 1x256 con dropout 0.3 y TF-IDF de 20.000 terminos
+    Precision:      0.6771
+    F1 macro:       0.6663
+    F1 ponderado:   0.6762
+
+========================================================================
+EJECUCION RAPIDA
+========================================================================
+
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    python demo.py
+
+Para reproducir el entrenamiento completo:
+
+    python -m src.experiments
+
+========================================================================
+NOTA
+========================================================================
+
+El repositorio incluye el archivo Entrega1_RedesNeuronales.zip, por lo que
+clonarlo o descargarlo desde GitHub equivale a obtener el paquete de
+entrega completo.
